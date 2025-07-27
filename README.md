@@ -63,6 +63,16 @@ Design and develop a robotic system capable of:
 
 The GeoGuide robot successfully detects multiple types of events and navigates accurately to their location based on priority. The system demonstrates robust AI-driven navigation and event handling in a controlled environment.
 
+## (ResNet Model)Results :-
+
+The ResNet-based model achieved outstanding performance in the classification task:
+
+- **Test Accuracy**: 100.0%
+- **Validation Accuracy (Epoch 9/25)**: ~83.75%
+- **Loss (Epoch 9/25)**: ~0.5040
+
+- 
+
 ---
 
 ## 🔮 Future Enhancements
@@ -70,7 +80,7 @@ The GeoGuide robot successfully detects multiple types of events and navigates a
 - Integrating deep reinforcement learning for adaptive navigation
 - Improving terrain adaptability for real-world deployment
 - Expanding event classes for broader emergency detection
-- Real-time wireless communication and map updates
+
 
 ---
 
@@ -79,7 +89,6 @@ The GeoGuide robot successfully detects multiple types of events and navigates a
 - Implementing machine learning and CNNs (YOLO, ResNet)
 - Image processing and event classification
 - Path planning and real-time robotic navigation
-- Embedded system integration with ESP32
 
 ---
 
