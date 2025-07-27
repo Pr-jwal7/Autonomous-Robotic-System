@@ -71,8 +71,11 @@ The ResNet-based model achieved outstanding performance in the classification ta
 - **Validation Accuracy (Epoch 9/25)**: ~83.75%
 - **Loss (Epoch 9/25)**: ~0.5040
 
-- 
+### 📈 Training Accuracy & Loss
+![ResNet Results](Resnet-Results.png)
 
+### 📊 Classification Report
+![Classification Report](Resnet-ClassificationReport.png)
 ---
 
 ## 🔮 Future Enhancements
